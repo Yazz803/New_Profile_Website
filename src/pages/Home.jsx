@@ -1,5 +1,5 @@
 import React from 'react'
 
 export default function Home() {
-  return <div>Profile Website</div>
+  return <div className="text-2xl">Profile Website</div>
 }
